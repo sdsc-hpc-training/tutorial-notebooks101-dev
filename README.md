@@ -1,2 +1,2 @@
 # tutorial-notebooks101-dev
-SDSC Jupyter Notebooks tutorial
+SDSC Jupyter Notebooks tutorial Dev
